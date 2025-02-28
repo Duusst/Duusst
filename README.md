@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duusst&theme=slateorange&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duusst&theme=slateorange&show_icons=true&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duusst&theme=slateorange&show_icons=true&hide_progress=false)
 <div style="display: inline_block"><br> 
   <img align="center" alt="Rafa-Csharp" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
